@@ -38,5 +38,6 @@ body {
     text-align: center;
 }
 .main_coupon {
+    width: 100%;
     margin-top: 80px;
 }
